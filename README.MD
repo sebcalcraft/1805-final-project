@@ -4,3 +4,4 @@ I wanted my project to explores how digital systems treat interaction as data. C
 
 One of the main challenges that I faced was ensuring that the system always responded to interaction, even when the user missed a target. Solving this helped reinforce the idea that all engagement affects the system. To combat this, I used the coding train tutorials to understand better how movement and repetition can be controlled. I used arrays to manage groups of moving elements. I also used loops to repeat actions every frame while using the conditionals to change behaviour over time. I also used lists of words to label certain elements which turned interaction into a form of classification.
 
+https://sebcalcraft.github.io/1805-final-project/
